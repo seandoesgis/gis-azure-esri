@@ -1,0 +1,7 @@
+*.pem
+*.pfx
+*.zip
+dvrpcgis-db.md
+dvrpcgis-enterprise.md
+selfsignedcert.sh
+.DS_Store
